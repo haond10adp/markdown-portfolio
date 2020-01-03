@@ -1,1 +1,1 @@
-[Lorem Picsum](https://picsum.photos/200/300)
+![Lorem Picsum](https://picsum.photos/200/300)
