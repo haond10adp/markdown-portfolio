@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## My attributes 
+### I understand
+- HTML :+1:
+- CSS
+- Javascript
+- PHP
+
+### I like browser and browsing the web to **learn** something :heart: and to have fun :smile:
